@@ -1,0 +1,51 @@
+.bg-primary{
+    margin-top: 0;
+margin-bottom: 0;
+margin-left: auto;
+margin-right: auto;
+}
+.first-container{
+    background-color: #055f9d;
+}
+.container-fluid{
+    padding: 0;
+    margin: 0;
+}
+.second-container{
+    font-family: "Monaco",monospace;
+    justify-content: center;
+}
+.navbar>.container-fluid{
+    justify-content:space-evenly;
+}
+.btn-primary{
+    background-color: #044e81;
+    border-radius: 20px;
+    border-color: #044e81;
+    width: 200px;
+    color: white;
+}
+.login-box{
+    background-color: rgb(184, 181, 179);
+    width: 300px;
+    border-radius: 10px;
+}
+.call_back{
+    color:#044e81;
+}
+.btn-secondary{
+    background-color: #36b7e4;
+    border-color: #36b7e4;
+    border-radius: 5px;
+    width: 100%;
+    color: white;
+}
+.h_button{
+    background-color: aliceblue;
+    border-color: aliceblue;
+    border-radius:5px;
+    
+}
+.btn_name{
+    color: black;
+}
