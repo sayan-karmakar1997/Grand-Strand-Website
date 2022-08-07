@@ -1,51 +1,62 @@
-.bg-primary{
-    margin-top: 0;
-margin-bottom: 0;
-margin-left: auto;
-margin-right: auto;
+a{
+    text-decoration:none;
+    margin-left: 20px;
+    color:#212121;
 }
-.first-container{
-    background-color: #055f9d;
-}
-.container-fluid{
-    padding: 0;
-    margin: 0;
-}
-.second-container{
-    font-family: "Monaco",monospace;
-    justify-content: center;
-}
-.navbar>.container-fluid{
-    justify-content:space-evenly;
-}
-.btn-primary{
+.bg{
     background-color: #044e81;
-    border-radius: 20px;
-    border-color: #044e81;
-    width: 200px;
-    color: white;
 }
-.login-box{
-    background-color: rgb(184, 181, 179);
-    width: 300px;
-    border-radius: 10px;
+.ml-auto{
+    margin-left:auto;
 }
-.call_back{
-    color:#044e81;
+.ml{
+    margin-right: 10px;
 }
-.btn-secondary{
-    background-color: #36b7e4;
-    border-color: #36b7e4;
-    border-radius: 5px;
-    width: 100%;
-    color: white;
+.announcbar a{
+    color:#fff;
 }
-.h_button{
-    background-color: aliceblue;
-    border-color: aliceblue;
-    border-radius:5px;
+nav.navbar > ul > li{
+    margin-left:20px;
+    list-style: none;
+}
+.button{
+    background-color: #044e81;
+    border-radius: 50px;
+}
+.pr{
+    padding-right: 15px;
+    text-decoration:none;
+    color: #fff;
     
 }
-.btn_name{
-    color: black;
+.lead{
+    font-size: 32px;
+}
+.ib{
+    border-color:#fff;
+    border-style: none;
+    box-shadow: 0px 0px 0px 0px #888888;
+}
+.fh{
+    color:#044e81;
+    font-family: 'Baloo Da 2';
+    font-size: 30px;
+    font-weight: bold;
+}
+.login-box{
+    background-color: antiquewhite;
+    padding: 20px;
+    border-radius: 5px;
+}
+.imb{
+    width: 100%;
+}
+.f-button{
+    width: 100%;
+    background-color: #36b7e4;
+    color: #fff;
+}
+.age{
+    font-family: 'Baloo Da 2';
+    font-weight: bold;   
 }
