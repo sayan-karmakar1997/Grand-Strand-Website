@@ -5,10 +5,13 @@ a{
 }
 .bg{
     background-color: #044e81;
+    font-family:'ABeeZee';
 }
 .ml-auto{
     margin-left:auto;
+    font-family:'ABeeZee';
 }
+
 .ml{
     margin-right: 10px;
 }
@@ -22,15 +25,14 @@ nav.navbar > ul > li{
 .button{
     background-color: #044e81;
     border-radius: 50px;
-}
-.pr{
-    padding-right: 15px;
-    text-decoration:none;
+    padding: 15px;
+    width: 40%;
     color: #fff;
     
 }
 .lead{
-    font-size: 32px;
+    font-size: 30px;
+    font-family:'ABeeZee'
 }
 .ib{
     border-color:#fff;
@@ -44,7 +46,7 @@ nav.navbar > ul > li{
     font-weight: bold;
 }
 .login-box{
-    background-color: antiquewhite;
+    background-color:rgb(165, 203, 206);
     padding: 20px;
     border-radius: 5px;
 }
@@ -55,8 +57,267 @@ nav.navbar > ul > li{
     width: 100%;
     background-color: #36b7e4;
     color: #fff;
+    font-family: 'ABeeZee';
 }
 .age{
     font-family: 'Baloo Da 2';
-    font-weight: bold;   
+    font-weight: bolder;   
 }
+.grp_button{
+    width: 75%;
+    font-weight: bold;
+    -webkit-box-shadow: -1px -2px 34px -3px rgba(0,0,0,0.48);
+    -moz-box-shadow: -1px -2px 34px -3px rgba(0,0,0,0.48);
+    box-shadow: -1px -2px 34px -3px rgba(0,0,0,0.48);
+    }
+.faw{
+    color: #055f9d;
+    font-size: 35px !important;
+}
+.button_name{
+    font-family: "Baloo Da 2";
+    color: #464242;
+    font-size: 20px;
+}
+.hd{
+    font-family: 'Baloo Da 2';
+    font-weight: bold;
+    color: #464242;  
+}
+.sub_hd{
+    font-family:'ABeeZee';
+    font-weight: bold;
+    color: #055f9d ;
+}
+.paragraph{
+    font-family:'ABeeZee';
+    color: #888888;
+}
+.button_rd{
+    width: 30%; 
+    background-color: #36b7e4;
+    border-radius: 50px;
+    color: #fff;
+}
+.cf{
+ background-color: #d4d4d4;
+}
+.ctnr{
+    padding-top: 100px;
+}
+.hd2{
+    color:#464242;
+    font-family:'Baloo Da 2' ;
+    font-size: 50px;
+    font-weight: bold;
+}
+.p2{
+    color: #464242;
+    font-family: 'Baloo Da 2';
+    font-weight: bold;
+    font-size: 25px;
+}
+.ctnr2{
+    background-color: #fff;
+    border-radius: 20px;
+}
+.hd3{
+    color:#044e81;
+    font-size: 50px;
+    font-family: 'Baloo Da 2';
+    font-weight: bold;
+}
+.p3{
+    color:#464242;
+    font-size: 20px;
+    font-family:'ABeeZee' ;
+}
+.pin{
+    font-size: 20px;
+    color:#464242;
+    font-family:'ABeeZee' ;
+}
+.button_ba{
+    background-color: #044e81;
+    border-radius: 50px;
+    padding: 15px;
+    width: 40%;
+    color: #fff; 
+    width: 50%;
+}
+.ctnr3{
+    background-color: #3475a0;
+    border-radius: 20px;
+}
+.ctnr_a{
+    padding-top: 100px;
+}
+.hd4{
+    color:#fff;
+    font-size: 40px;
+    font-family: 'Baloo Da 2';
+    font-weight: bold;
+}
+.ply{
+    color: #fff;
+    font-size: 100px !important;
+}
+.p4{
+    color: #fff;
+    font-family:'ABeeZee' ;
+    font-size: 15px;
+}
+.hd5{
+    color:#fff;
+    font-size: 30px;
+    font-family:'ABeeZee' ; 
+}
+.btn_g2{
+    color:#08619e;
+    font-size: 30px;
+    font-family:'ABeeZee' ; 
+    background-color:#fff ;
+    border-radius: 10px;
+    width: 100%;
+}
+.ctnr_f2{
+    background-color: #d4d4d4;
+}
+.ctnr_b{
+    padding-top: 100px;
+}
+.ctnr_c{
+    border-radius: 10px;
+    background-color: #fff;
+}
+.ctnrd{
+    padding: 20px;
+}
+.hd6{
+    font-family: 'Baloo Da 2';
+    font-weight: bold;
+    color: #464242; 
+    font-size: 50px; 
+}
+.p_4{
+    color:#464242;
+    font-size: 20px;
+    font-family:'ABeeZee' ; 
+}
+.button_lm{
+    width: 35%; 
+    background-color: #36b7e4;
+    border-radius: 50px;
+    color: #fff;
+    font-size: 20px;
+}
+.ctnr_e{
+    background-color: #055f9d;
+    border-radius: 0px;
+}
+.dr_t{
+    color: #fff;
+    font-size: 45px;
+    font-weight: bold;
+    font-family:'Baloo Da 2' ;
+}
+.p_drt{
+    color: #fff;
+    font-size: 25px;
+    font-family:'ABeeZee' ;
+}
+.dr_n{
+    color: #fff;
+    font-family:'ABeeZee' ;
+    font-size: 35px;
+    text-align: center;
+}
+.dr_b{
+    color: #fff;
+    font-family:'ABeeZee' ;
+    font-size: 20px;
+    text-align: center;
+}
+.hdh{
+    font-size: 45px;
+    font-weight: bold;
+    font-family:'Baloo Da 2' ;
+    color: #464242;
+}
+.hhd_p{
+    color: #464242;
+    font-family: 'ABeeZee';
+    font-size: 25px;
+    font-weight: bold;
+}
+.ctnr_p{
+    border-radius: 10px;
+    margin: 5px !important;
+    -webkit-box-shadow: 2px 4px 22px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 2px 4px 22px 0px rgba(0,0,0,0.75);
+    box-shadow: 2px 4px 22px 0px rgba(0,0,0,0.75);
+}
+.sub_ctnr{
+    padding: 20px;
+}
+.pg{
+    color: #464242;
+    font-family: 'ABeeZee';
+    font-size: 20px;
+}
+.cot{
+    background-color: #cddfeb;
+    border-radius: 100px;
+    align-items: center;
+}
+.cot_f{
+    font-size: 40px;
+    color:#055f9d;
+    padding: 20px;
+}
+.jhonathone{
+    font-family:'Baloo Da 2';
+    font-size: 25px;
+    font-weight: bolder;
+    color: #055f9d;
+}
+.Patient{
+    font-family:'ABeeZee';
+    font-size: 20px;
+    color:#464242;
+}
+.ctnr_fl{
+    background-color: #d8d8d8;
+}
+.map{
+    width: 100%;
+    height: 100%;
+}
+.table{
+    height: 100%;
+    width: 100%;
+}
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+    font-family:'ABeeZee' ;
+    font-weight: bold;
+  }
+tr:nth-child(even) {
+    background-color: #9e9e9e;
+  }
+  tr:nth-child(odd) {
+    background-color: #fff;
+  }
+  .tm{
+    color: #055f9d;
+  }
+  .add{
+    text-align: start;
+  }
+  .socal_logo{
+    padding: 20px;
+    color: #fff;
+    font-size: 35px;
+  }
