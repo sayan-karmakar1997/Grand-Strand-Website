@@ -26,7 +26,7 @@ nav.navbar > ul > li{
     background-color: #044e81;
     border-radius: 50px;
     padding: 15px;
-    width: 40%;
+    width: 50%;
     color: #fff;
     
 }
@@ -34,6 +34,7 @@ nav.navbar > ul > li{
     font-size: 30px;
     font-family:'ABeeZee'
 }
+
 .ib{
     border-color:#fff;
     border-style: none;
@@ -64,11 +65,13 @@ nav.navbar > ul > li{
     font-weight: bolder;   
 }
 .grp_button{
-    width: 75%;
+    border-radius: 5px;
+    margin-right: 5px;
+    padding-left: 50px;
     font-weight: bold;
     -webkit-box-shadow: -1px -2px 34px -3px rgba(0,0,0,0.48);
-    -moz-box-shadow: -1px -2px 34px -3px rgba(0,0,0,0.48);
-    box-shadow: -1px -2px 34px -3px rgba(0,0,0,0.48);
+    -moz-box-shadow: -1px -2px 12px -3px rgba(0,0,0,0.48);
+    box-shadow: -1px -2px 12px -3px rgba(0,0,0,0.48);
     }
 .faw{
     color: #055f9d;
@@ -94,7 +97,8 @@ nav.navbar > ul > li{
     color: #888888;
 }
 .button_rd{
-    width: 30%; 
+   width: 200px;
+   height: 50px;
     background-color: #36b7e4;
     border-radius: 50px;
     color: #fff;
@@ -188,7 +192,7 @@ nav.navbar > ul > li{
     padding-top: 100px;
 }
 .ctnr_c{
-    border-radius: 10px;
+    border-radius: px;
     background-color: #fff;
 }
 .ctnrd{
@@ -361,4 +365,7 @@ tr:nth-child(even) {
 }
 .lst{
     margin-left: 150px;
+}
+.img{
+    width: 50%;
 }
