@@ -23,6 +23,10 @@ a{
     height: 35px;
     margin-top: 12px;
 }
+nav.navbar.ml-auto{
+    margin-right: 7px;
+    padding-top: 20px;
+}
 .ml{
     margin-right: 10px;
 }
@@ -38,8 +42,10 @@ nav.navbar > ul > li{
     border-radius: 50px;
     padding: 15px;
     width: 50%;
-    color: #fff;
-    
+    color: #fff; 
+}
+.site_logo{
+    margin-left: 20px;
 }
 .lead{
     font-size: 30px;
@@ -50,11 +56,12 @@ nav.navbar > ul > li{
     border-color:#fff;
     border-style: none;
     box-shadow: 0px 0px 0px 0px #888888;
+    font-size: 15px;
 }
 .fh{
     color:#044e81;
     font-family: 'Baloo Da 2';
-    font-size: 30px;
+    font-size: 25px;
     font-weight: bold;
 }
 .login-box{
@@ -64,6 +71,7 @@ nav.navbar > ul > li{
 }
 .imb{
     width: 100%;
+    font-size: 15px;
 }
 .f-button{
     width: 100%;
@@ -73,7 +81,8 @@ nav.navbar > ul > li{
 }
 .age{
     font-family: 'Baloo Da 2';
-    font-weight: bolder;   
+    font-weight: bolder; 
+    padding-top: 75px;  
 }
 .grp_button{
     border-radius: 5px;
@@ -102,6 +111,7 @@ nav.navbar > ul > li{
 .sub_hd{
     font-family:'ABeeZee';
     font-weight: bold;
+    font-size: 25px ;
     color: #055f9d ;
 }
 .paragraph{
@@ -233,21 +243,27 @@ nav.navbar > ul > li{
 }
 .hd6{
     font-family: 'Baloo Da 2';
-    font-weight: bold;
+    font-weight: bolder;
     color: #464242; 
-    font-size: 40px; 
+    font-size: 30px; 
 }
 .p_4{
     color:#464242;
-    font-size: 15px;
+    font-size: 20px;
     font-family:'ABeeZee' ; 
 }
 .button_lm{
-    width: 35%; 
+    justify-content: center;
+    width: 40%; 
+    height: 7%;
     background-color: #36b7e4;
     border-radius: 50px;
-    color: #fff;
+    margin-left: 20px;  
+}
+.lm{
     font-size: 20px;
+    padding-left: 45px;
+    color: #fff;
 }
 .ctnr_e{
     background-color: #055f9d;
@@ -405,7 +421,8 @@ tr:nth-child(even) {
     padding-top: 10px!important;
 }
 .ccimg{
-    width: 102%!important;
+    width: 655px!important;
+    border-radius: 25px;
 }
 button.btn.socal_button {
     margin-right: 15px;
@@ -416,9 +433,107 @@ a.d-flex {
 .underline {
     width: 35%!important;
     height: 2%;
-    background-color: #055f9d;
     border-radius: 5px;
 }
 .bb{
    padding-left: 100px;
 }
+.pd_o{
+    padding: 20px;
+}
+/* @media only screen and (max-width: 767px) {
+    span {
+        display: none;
+    }
+    h1.display-2.age {
+        font-size: 25px;
+        margin-left: -84px;
+    }
+    
+p.lead.dispaly-2 {
+    margin-left: -67px;
+    font-size: 16px;
+}
+a.btn.button {
+    width: 155px;
+    margin-left: -17px;
+}
+.login-box {
+    margin-left: -127px;
+}
+.wimg{
+        width: 100%;
+        margin-top: -137px;
+}
+.hd {
+    font-size: 18px;
+    padding-left: 5px;
+}
+.sub_hd {
+    font-size: 25px;
+    font-size: 85%;
+    margin-top: -27px;
+    padding-left: 20px;
+}
+.paragraph {
+    margin-top: -24px;
+}
+.hd2{
+    font-size: 19px;
+    margin-left: -3px;
+}
+.p2{
+    font-size: 13px;
+    margin-top: -13px;
+}
+.ctnr2{
+    margin-top: -43px;
+}
+.hd4{
+    font-size: 20px;
+}
+.hd6{
+    font-size: 22px;
+    margin-top: 47px;
+}
+.sub_hd{
+    margin-top: 1px;
+    margin-left: -17px;
+}
+.pd_o{
+    margin-top: 10px;
+}
+.px-5.col-lg-6.col-sm-2 {
+    margin-top: 195px;
+    margin-left: -158px;
+    font-size: 12px;
+}
+p.paragraph {
+    margin-left: -181px;
+}
+img.img_II {
+    width: 355px;
+    margin-left: -8px;
+}
+h2.display-6.hd {
+    margin-left: -190px;
+    margin-top: 149px;
+    margin-bottom: 33px;
+}
+a.btn.button_rd1 {
+    margin-left: -178px;
+    width: 100px;
+}
+p.pg {
+    font-size: 8px;
+}
+h1.hdh {
+    font-size: 30px;
+}
+p.hhd_p {
+    font-size: 15px;
+}
+.doc_img{
+    width: 100%;
+}
+} */
